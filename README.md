@@ -1,2 +1,2 @@
-# ProjetosBootcamp
-Diretório para atividades de bootcamp
+# Projetos de Bootcamp
+Este diretório será utilidado para armazenar atividades de bootcamp
